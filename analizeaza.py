@@ -1,9 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Anul 2022 --> +32 de locuri la buget (aprox +10%)
-# Anul 2021 --> nota bac mate +10% (dificultate)
-
 mediaAlex = 8.56
 
 with open('note.txt', 'r') as f:
